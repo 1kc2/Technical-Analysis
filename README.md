@@ -19,6 +19,8 @@ A technical analysis on some of the biggest tech stocks using R: Amazon (AMZN), 
     - Percentage change in Bollinger
     - Volume
     - MACD (Moving Average Convergence Divergence)
+    <img src="img/chartseries_history.png" alt="History" title="History" width="75%" height="75%"/>
+    <img src="img/chartseries_analysis.png" alt="Analysis" title="Analysis" width="75%" height="75%"/>
 
 - `return.R`
     - Stock distribution's daily return
@@ -28,6 +30,8 @@ A technical analysis on some of the biggest tech stocks using R: Amazon (AMZN), 
 
 - `randomwalk.R`
     - Using `ggplot` to predict stock prices
+    <img src="img/random_walk.png" alt="Random Walk" title="History" width="75%" height="75%"/>
 
 - `montecarlo.R`
     - Using `ggplot` to replicate the random walk experiment to come up with a more accurate simulation
+    <img src="img/monte_carlo.png" alt="Monte Carlo" title="Monte Carlo" width="75%" height="75%"/>
