@@ -15,7 +15,7 @@ A technical analysis on some of the biggest tech stocks using R: Amazon (AMZN), 
 
 - `chartseries.R`
     - Stock's latest movement
-    - Bollinger band
+    - Bollinger bands
     - Percentage change in Bollinger
     - Volume
     - MACD (Moving Average Convergence Divergence)
